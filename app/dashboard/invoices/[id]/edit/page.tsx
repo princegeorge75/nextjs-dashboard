@@ -26,7 +26,7 @@ if (!invoice) {
         breadcrumbs={[
           { label: 'Invoices', href: '/dashboard/invoices' },
           {
-            label: 'Edit Invoice',
+            label: 'Edit Invoices',
             href: `/dashboard/invoices/${id}/edit`,
             active: true,
           },
